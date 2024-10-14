@@ -1,4 +1,4 @@
-# datasets
+# Datasets
 
 Hier vind je de datasets die bij de onderwijsactiviteiten van het Datalab worden gebruikt. 
 
